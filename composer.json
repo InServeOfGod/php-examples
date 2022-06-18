@@ -1,0 +1,16 @@
+{
+    "name": "inserveofgod/php-examples",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Inserveofgod\\PhpExamples\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "inserveofgod",
+            "email": "inserveofgod@gmail.com"
+        }
+    ],
+    "require": {}
+}
